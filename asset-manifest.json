@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Js-Job-portal/static/css/main.2273eb1e.chunk.css",
+    "main.js": "/React-Js-Job-portal/static/js/main.098137d6.chunk.js",
+    "main.js.map": "/React-Js-Job-portal/static/js/main.098137d6.chunk.js.map",
+    "runtime-main.js": "/React-Js-Job-portal/static/js/runtime-main.a062f3a8.js",
+    "runtime-main.js.map": "/React-Js-Job-portal/static/js/runtime-main.a062f3a8.js.map",
+    "static/js/2.82bd41c6.chunk.js": "/React-Js-Job-portal/static/js/2.82bd41c6.chunk.js",
+    "static/js/2.82bd41c6.chunk.js.map": "/React-Js-Job-portal/static/js/2.82bd41c6.chunk.js.map",
+    "index.html": "/React-Js-Job-portal/index.html",
+    "precache-manifest.ba7f9aef757ddd6332b36b7c3da1004a.js": "/React-Js-Job-portal/precache-manifest.ba7f9aef757ddd6332b36b7c3da1004a.js",
+    "service-worker.js": "/React-Js-Job-portal/service-worker.js",
+    "static/css/main.2273eb1e.chunk.css.map": "/React-Js-Job-portal/static/css/main.2273eb1e.chunk.css.map",
+    "static/js/2.82bd41c6.chunk.js.LICENSE.txt": "/React-Js-Job-portal/static/js/2.82bd41c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a062f3a8.js",
+    "static/js/2.82bd41c6.chunk.js",
+    "static/css/main.2273eb1e.chunk.css",
+    "static/js/main.098137d6.chunk.js"
+  ]
+}
